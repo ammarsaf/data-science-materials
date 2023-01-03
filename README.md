@@ -115,8 +115,11 @@ Data Analytics: Tools and Language
  *Neural Network from Scratch (sentdex)*
     
  - [https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&ab_channel=sentdex](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&ab_channel=sentdex)
-    
+ 
+*Deep Learning for Practical*
 
+- https://course.fast.ai/
+    
 *Blogs and Visual*
 
 - Learning Assistance (visual)
