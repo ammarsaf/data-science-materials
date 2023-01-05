@@ -107,6 +107,10 @@ Data Analytics: Tools and Language
 - [https://www.youtube.com/watch?v=Z_ikDlimN6A&ab_channel=DanielBourke](https://www.youtube.com/watch?v=Z_ikDlimN6A&ab_channel=DanielBourke)
     
 - [https://www.learnpytorch.io/](https://www.learnpytorch.io/)
+
+*Tensorflow Fundamentals*
+
+- https://dev.mrdbourke.com/tensorflow-deep-learning/
     
 *Deep Learning Fundamentals (Mathematical and Visual)*
     
