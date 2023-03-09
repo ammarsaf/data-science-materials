@@ -1,19 +1,26 @@
 # Free University
+- A list of learning source that I preferably to use. 
+- Click to expand the list.
 
 ## Data Analytics
-
-### General Data Science
-
+<details>
+<summary>
 Data Analytics: Tools and Language
+</summary>
 
 - [https://www.youtube.com/c/Thuvu5](https://www.youtube.com/c/Thuvu5)
 
 - [https://www.youtube.com/c/LukeBarousse](https://www.youtube.com/c/LukeBarousse)
 
+</details>
 
 ## All about Python
 
-**Python Courses**
+<details>
+<summary>
+Python Courses
+</summary>
+
 
 *Python Fundamentals for Beginners (Tutorial Series)*
 
@@ -44,11 +51,14 @@ Data Analytics: Tools and Language
 **Python useful Open Source:**
 
 - [https://rich.readthedocs.io/en/stable/introduction.html](https://rich.readthedocs.io/en/stable/introduction.html)
-
+</details>
 
 ## **Statistics**
 
-**Statistics**
+<details>
+<summary>
+Statistics Series
+</summary>
 
 - [https://www.youtube.com/c/joshstarmer](https://www.youtube.com/c/joshstarmer)
 
@@ -64,9 +74,14 @@ Data Analytics: Tools and Language
 
 - [https://www.3blue1brown.com/#lessons]
 
-## Machine Learning
+</details>
 
-*Machine Learning*
+
+## Machine Learning
+<details>
+<summary>
+Machine Learning Sources
+</summary>
 
 - [https://www.youtube.com/c/joshstarmer](https://www.youtube.com/c/joshstarmer)
 
@@ -132,9 +147,15 @@ Data Analytics: Tools and Language
 
 - [https://towardsdatascience.com/5-most-well-known-cnn-architectures-visualized-af76f1f0065e](https://towardsdatascience.com/5-most-well-known-cnn-architectures-visualized-af76f1f0065e)
 
+</details>
 
-## Other tools:
 
+## Other tools
+
+<details>
+<summary>
+Other related tools:
+</summary>
 **Excel** 
 
 Data Visualization
@@ -151,6 +172,9 @@ Version Control: **Git**
 
 [Introduction to Git](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049) 
 
+<details>
+
+
 ****************Computer Science****************
 
 [https://missing.csail.mit.edu/](https://missing.csail.mit.edu/)
@@ -158,3 +182,5 @@ Version Control: **Git**
 ## Software Engineer adaptation
 
 - [https://coverage.readthedocs.io/en/coverage-5.2.1/](https://coverage.readthedocs.io/en/coverage-5.2.1/)
+
+
