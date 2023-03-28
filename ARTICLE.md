@@ -6,6 +6,8 @@
 ## Advice
 - [Unpopular Opinion: Data Scientists Should be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/)
 
-## Static Website Tech Article 
+## Static Website 
 - [Grivel](https://grifel.dev/)
 - [Jay Mody](https://jaykmody.com/)
+- [Peter McConnel](https://www.petermcconnell.com/)
+- [Vadim Kravcenko](https://vadimkravcenko.com/)
