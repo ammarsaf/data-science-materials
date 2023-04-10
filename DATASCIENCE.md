@@ -156,6 +156,7 @@ Machine Learning Sources
 <summary>
 Other related tools:
 </summary>
+    
 **Excel** 
 
 Data Visualization
@@ -170,11 +171,9 @@ Power Query
 
 Version Control: **Git**
 
-[Introduction to Git](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049) 
-
-<details>
-
-
+- [Introduction to Git](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049) 
+- [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/)
+    
 ****************Computer Science****************
 
 [https://missing.csail.mit.edu/](https://missing.csail.mit.edu/)
