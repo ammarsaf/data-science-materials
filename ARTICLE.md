@@ -5,6 +5,7 @@
 
 ## Advice
 - [Unpopular Opinion: Data Scientists Should be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/)
+- [Learn in Public](https://www.swyx.io/learn-in-public)
 
 ## Static Website 
 - [Grivel](https://grifel.dev/)
