@@ -82,6 +82,9 @@ Statistics Series
 <summary>
 Machine Learning Sources
 </summary>
+<br>
+    
+*Statistics and Machine Learning*
 
 - [https://www.youtube.com/c/joshstarmer](https://www.youtube.com/c/joshstarmer)
 
@@ -138,6 +141,10 @@ Machine Learning Sources
 *Deep Learning for Practical*
 
 - https://course.fast.ai/
+    
+*Multimodal Machine Learning* 
+
+- https://slds-lmu.github.io/seminar_multimodal_dl/index.html
     
 *Blogs and Visual*
 
