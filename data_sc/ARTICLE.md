@@ -1,4 +1,4 @@
-# Data Scientist Reading Source
+# External Related Reading Source
 
 ## Experience 
 - [Alexey Grigorev - Principal Data Scientist @ OLX Group](https://applyingml.com/mentors/alexey-grigorev/)
