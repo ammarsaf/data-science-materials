@@ -8,9 +8,8 @@
 Data Analytics: Tools and Language
 </summary>
 
-- [https://www.youtube.com/c/Thuvu5](https://www.youtube.com/c/Thuvu5)
-
-- [https://www.youtube.com/c/LukeBarousse](https://www.youtube.com/c/LukeBarousse)
+* [Thuvu5](https://www.youtube.com/c/Thuvu5)
+* [LukeBarousse](https://www.youtube.com/c/LukeBarousse)
 
 </details>
 
@@ -51,6 +50,8 @@ Python Courses
 **Python useful Open Source:**
 
 - [https://rich.readthedocs.io/en/stable/introduction.html](https://rich.readthedocs.io/en/stable/introduction.html)
+
+* [Style Guide](https://google.github.io/styleguide/pyguide.html)
 </details>
 
 ## **Statistics**
