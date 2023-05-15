@@ -84,75 +84,58 @@ Machine Learning Sources
 </summary>
 <br>
     
-*Statistics and Machine Learning*
+* Statistics and Machine Learning
 
-- [https://www.youtube.com/c/joshstarmer](https://www.youtube.com/c/joshstarmer)
+    * [Josh Starmer](https://www.youtube.com/c/joshstarmer)
 
-*Scikit-learn and Pandas Tips*
+* Scikit-learn and Pandas Tips
 
-- [https://www.youtube.com/c/dataschool](https://www.youtube.com/c/dataschool)
+    * [dataschool](https://www.youtube.com/c/dataschool)
 
-*ML Operation (MLOps)*
+    * [pandas-with-hundreds-of-millions-of-rows](https://datapythonista.me/blog/pandas-with-hundreds-of-millions-of-rows)
 
-- [https://fullstackdeeplearning.com/](https://fullstackdeeplearning.com/)
+* ML Operation (MLOps)
 
-- [https://madewithml.com/#mlops](https://madewithml.com/#mlops)
+    * [fullstackdeeplearning](https://fullstackdeeplearning.com/)
+    * [pandas-with-hundreds-of-millions-of-rows](https://madewithml.com/#mlops)
 
-*Roadmap*
+* Roadmap
 
-- [https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
+    * [machine-learning-roadmap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
 
-*Book Suggestion*
+* Book Suggestion
 
-[https://www.mrdbourke.com/ml-resources/](https://www.mrdbourke.com/ml-resources/)
+    * [mrdbourke-ml-resources](https://www.mrdbourke.com/ml-resources/)
 
-*Daily Machine Learning Quizzes*
+ * Daily Machine Learning Quizzes
 
-- [https://today.bnomial.com/](https://today.bnomial.com/)
+    * [bnomial](https://today.bnomial.com/)
 
-*Machine Learning Blogs*
+* Machine Learning Blogs
 
-- [https://applyingml.com/](https://applyingml.com/)
+    * [applyingml](https://applyingml.com/)
+    * [paperswithcode](https://paperswithcode.com/)
+    * [eugeneyan](https://eugeneyan.com/)
 
-- [https://paperswithcode.com/](https://paperswithcode.com/)
-
-- [https://eugeneyan.com/](https://eugeneyan.com/)
-
-**Deep Learning**
-
-*Pytorch Full Fundamentals Tutorial (Hands-on)*
+* Deep Learning
     
-- [https://www.youtube.com/watch?v=Z_ikDlimN6A&ab_channel=DanielBourke](https://www.youtube.com/watch?v=Z_ikDlimN6A&ab_channel=DanielBourke)
-    
-- [https://www.learnpytorch.io/](https://www.learnpytorch.io/)
+    * Pytorch
+        * [Pytorch Full Fundamentals Tutorial (Hands-on)](https://www.youtube.com/watch?v=Z_ikDlimN6A&ab_channel=DanielBourke)
+        * [learnpytorch](https://www.learnpytorch.io/)
 
-*Tensorflow Fundamentals*
-
-- https://dev.mrdbourke.com/tensorflow-deep-learning/
+    * Tensorflow Fundamentals 
+        * [mrdbourke-tensorflow](https://dev.mrdbourke.com/tensorflow-deep-learning/)
     
-*Deep Learning Fundamentals (Mathematical and Visual)*
-    
-- [https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU&ab_channel=deeplizard](https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU&ab_channel=deeplizard) 
-    
- *Neural Network from Scratch (sentdex)*
-    
- - [https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&ab_channel=sentdex](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&ab_channel=sentdex)
- 
-*Deep Learning for Practical*
+    * Deep Learning Fundamentals (Mathematical and Visual)
+        * [deeplizard](https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU&ab_channel=deeplizard) 
+        * [sentdex nn](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&ab_channel=sentdex)
+        * [fast-ai](https://course.fast.ai/)
+        * [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+        * [most-well-known-cnn-architectures-](https://towardsdatascience.com/5-most-well-known-cnn-architectures-visualized-af76f1f0065e)
 
-- https://course.fast.ai/
+    * Multimodal Machine Learning 
+        * [seminar multimodal dl](https://slds-lmu.github.io/seminar_multimodal_dl/index.html)
     
-*Multimodal Machine Learning* 
-
-- https://slds-lmu.github.io/seminar_multimodal_dl/index.html
-    
-*Blogs and Visual*
-
-- Learning Assistance (visual)
-
-[CNN Explainer](https://poloclub.github.io/cnn-explainer/)
-
-- [https://towardsdatascience.com/5-most-well-known-cnn-architectures-visualized-af76f1f0065e](https://towardsdatascience.com/5-most-well-known-cnn-architectures-visualized-af76f1f0065e)
 
 </details>
 
