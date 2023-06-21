@@ -15,6 +15,7 @@
 - [Jay Mody](https://jaykmody.com/)
 - [Peter McConnel](https://www.petermcconnell.com/)
 - [Vadim Kravcenko](https://vadimkravcenko.com/)
+- [pkozlack](https://pkolaczk.github.io/)
 
 ## LLM
 - [generative-ink](https://generative.ink/)
