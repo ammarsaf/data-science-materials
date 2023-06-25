@@ -1,0 +1,11 @@
+This readme file is dedicated to keep all related Pythonic writing method 
+- Python refactoring
+  -  [link1](https://sourcery.ai/blog/explaining-refactorings-1/)
+  -  [link2](https://sourcery.ai/blog/explaining-refactorings-2/)
+  -  [link3](https://sourcery.ai/blog/explaining-refactorings-3/)
+- OOP design pattern
+    - singleton
+    - constructor
+    - static method
+- Modularizaton
+- Couroutine (async-await, io) 
