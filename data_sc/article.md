@@ -20,3 +20,6 @@
 ## LLM
 - [generative-ink](https://generative.ink/)
 - [simon-willison](https://simonwillison.net/)
+
+## Web-dev
+- [Understand HTTPS with Comic](https://howhttps.works/why-do-we-need-https/)
