@@ -4,6 +4,7 @@ This readme file is dedicated to keep all related Pythonic writing method
   -  [link2](https://sourcery.ai/blog/explaining-refactorings-2/)
   -  [link3](https://sourcery.ai/blog/explaining-refactorings-3/)
 - OOP design pattern
+    - [SOLID](https://www.youtube.com/@ArjanCodes)
     - singleton
     - constructor
     - static method
