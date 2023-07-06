@@ -1,12 +1,19 @@
-This readme file is dedicated to keep all related Pythonic writing method 
-- Python refactoring
-  -  [link1](https://sourcery.ai/blog/explaining-refactorings-1/)
-  -  [link2](https://sourcery.ai/blog/explaining-refactorings-2/)
-  -  [link3](https://sourcery.ai/blog/explaining-refactorings-3/)
-- OOP design pattern
-    - [SOLID](https://www.youtube.com/@ArjanCodes)
-    - singleton
-    - constructor
-    - static method
+# Details
+- This readme file is dedicated to keep all related programming, OOP, refactoring and Pythonic writing method 
+
+## Programming Principle
+- [SOLID](https://www.youtube.com/@ArjanCodes)
+
+## Refactoring  
+-  [Refactoring Guru](https://refactoring.guru/)
+-  [link1](https://sourcery.ai/blog/explaining-refactorings-1/)
+-  [link2](https://sourcery.ai/blog/explaining-refactorings-2/)
+-  [link3](https://sourcery.ai/blog/explaining-refactorings-3/)
+
+##  OP design pattern
+- singleton
+- constructor
+- static method
 - Modularizaton
-- Couroutine (async-await, io) 
+- Couroutine (async-await, io)
+- Multithreading 
