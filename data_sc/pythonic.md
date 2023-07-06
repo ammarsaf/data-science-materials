@@ -17,3 +17,6 @@
 - Modularizaton
 - Couroutine (async-await, io)
 - Multithreading 
+
+## Debugging
+- [Rubber Ducking](https://blog.zenhub.com/why-rubber-duck-debugging-is-the-best-way-to-debug-your-code/)
