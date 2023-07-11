@@ -3,6 +3,8 @@
 
 ## Python Intermediate
 - [Python-Tips](https://book.pythontips.com/en/latest/index.html#)
+- [Concurrent-Asyncio](https://bbc.github.io/cloudfit-public-docs/)
+- [Python-packaging](https://bbc.github.io/cloudfit-public-docs/packaging/this_way_up.html)
 
 ## Programming Principle
 - [SOLID](https://www.youtube.com/@ArjanCodes)
