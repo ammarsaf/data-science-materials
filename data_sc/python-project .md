@@ -5,5 +5,6 @@ This file contained some suggested beginners project for Python beginners.
 3. [Build API with FastAPI](https://fastapi.tiangolo.com/)
 4. [Do unittest with Pytest](https://realpython.com/python-testing/) 
 5. [Learn Git with Game](https://learngitbranching.js.org/)
-6. [Build Your Container](https://docker-curriculum.com/) 
+6. [Build Your Container](https://docker-curriculum.com/)
+7. [Practical-Python-Project](https://practicalpython.yasoob.me/toc.html)
 
