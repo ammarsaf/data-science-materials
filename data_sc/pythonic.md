@@ -1,5 +1,8 @@
 # Details
-- This readme file is dedicated to keep all related programming, OOP, refactoring and Pythonic writing method 
+- This readme file is dedicated to keep all related programming, OOP, refactoring and Pythonic writing method
+
+## Python Intermediate
+- [Python-Tips](https://book.pythontips.com/en/latest/index.html#)
 
 ## Programming Principle
 - [SOLID](https://www.youtube.com/@ArjanCodes)
