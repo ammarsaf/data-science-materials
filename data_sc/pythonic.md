@@ -20,3 +20,6 @@
 
 ## Debugging
 - [Rubber Ducking](https://blog.zenhub.com/why-rubber-duck-debugging-is-the-best-way-to-debug-your-code/)
+
+## Data Structure and Algorithm 
+- https://just-taking-a-ride.com/inside_python_dict/chapter1.html
