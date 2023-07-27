@@ -7,4 +7,5 @@ This file contained some suggested beginners project for Python beginners.
 5. [Learn Git with Game](https://learngitbranching.js.org/)
 6. [Build Your Container](https://docker-curriculum.com/)
 7. [Practical-Python-Project](https://practicalpython.yasoob.me/toc.html)
+8. [Free XP - List of Open Source](https://freexp.dev/)
 
