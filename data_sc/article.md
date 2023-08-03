@@ -10,13 +10,14 @@
 - [Programmer Interrupted: The Real Cost of Interruption and Context Switching](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
 - [Programmer Interrupted](http://blog.ninlabs.com/2013/01/programmer-interrupted/)
 
-## Developer
+## Developer Blog
 - [Grivel](https://grifel.dev/)
 - [Jay Mody](https://jaykmody.com/)
 - [Peter McConnel](https://www.petermcconnell.com/)
 - [Vadim Kravcenko](https://vadimkravcenko.com/)
 - [pkozlack](https://pkolaczk.github.io/)
 - [martin-heinz](https://martinheinz.dev/)
+- [bite-code](https://www.bitecode.dev/)
 
 ## LLM
 - [generative-ink](https://generative.ink/)
