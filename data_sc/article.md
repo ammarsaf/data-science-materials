@@ -18,6 +18,7 @@
 - [pkozlack](https://pkolaczk.github.io/)
 - [martin-heinz](https://martinheinz.dev/)
 - [bite-code](https://www.bitecode.dev/)
+- [ghaz-thought](https://gazj.substack.com/)
 
 ## LLM
 - [generative-ink](https://generative.ink/)
