@@ -16,6 +16,7 @@
 - [Peter McConnel](https://www.petermcconnell.com/)
 - [Vadim Kravcenko](https://vadimkravcenko.com/)
 - [pkozlack](https://pkolaczk.github.io/)
+- [martin-heinz](https://martinheinz.dev/)
 
 ## LLM
 - [generative-ink](https://generative.ink/)
