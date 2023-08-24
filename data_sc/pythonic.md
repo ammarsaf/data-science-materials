@@ -5,6 +5,8 @@
 - [Python-Tips](https://book.pythontips.com/en/latest/index.html#)
 - [Concurrent-Asyncio](https://bbc.github.io/cloudfit-public-docs/)
 - [Python-packaging](https://bbc.github.io/cloudfit-public-docs/packaging/this_way_up.html)
+- [asyncio-twisted-tornado-gevent-walk](https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk)
+- [threadpool-executor](https://docs.python.org/3/library/concurrent.futures.html)
 
 ## Programming Principle
 - [SOLID](https://www.youtube.com/@ArjanCodes)
