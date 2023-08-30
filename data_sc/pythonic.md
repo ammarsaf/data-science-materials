@@ -22,4 +22,5 @@
 - [Rubber Ducking](https://blog.zenhub.com/why-rubber-duck-debugging-is-the-best-way-to-debug-your-code/)
 
 ## Data Structure and Algorithm 
-- https://just-taking-a-ride.com/inside_python_dict/chapter1.html
+- [inside_python_dict](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
+- [sorted-containers package](https://grantjenks.com/docs/sortedcontainers/)
