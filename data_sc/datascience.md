@@ -13,6 +13,15 @@ Data Analytics: Tools and Language
 
 </details>
 
+<details>
+<summary>
+Data Mining | Web-scraping
+</summary>
+
+* [curlconverter](https://curlconverter.com/)
+
+</details>
+
 ## All about Python
 
 <details>
