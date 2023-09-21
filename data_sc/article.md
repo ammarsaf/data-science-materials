@@ -1,5 +1,8 @@
 # External Related Reading Source
 
+## Machine Learning
+- [the-wrong-batch-size-is-all-it-takes](https://articles.bnomial.com/the-wrong-batch-size-is-all-it-takes)
+
 ## Experience 
 - [Alexey Grigorev - Principal Data Scientist @ OLX Group](https://applyingml.com/mentors/alexey-grigorev/)
 
