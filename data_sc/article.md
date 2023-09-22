@@ -2,6 +2,7 @@
 
 ## Machine Learning
 - [the-wrong-batch-size-is-all-it-takes](https://articles.bnomial.com/the-wrong-batch-size-is-all-it-takes)
+- [overfitting-underfitting-learning-curves](https://articles.bnomial.com/overfitting-underfitting-learning-curves)
 
 ## Experience 
 - [Alexey Grigorev - Principal Data Scientist @ OLX Group](https://applyingml.com/mentors/alexey-grigorev/)
