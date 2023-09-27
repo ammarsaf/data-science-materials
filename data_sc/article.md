@@ -3,6 +3,9 @@
 ## Machine Learning
 - [the-wrong-batch-size-is-all-it-takes](https://articles.bnomial.com/the-wrong-batch-size-is-all-it-takes)
 - [overfitting-underfitting-learning-curves](https://articles.bnomial.com/overfitting-underfitting-learning-curves)
+- [data-augmentation-guide](https://www.v7labs.com/blog/data-augmentation-guide)
+- [machine-learning-adversarial-attacks-and-defense](https://www.analyticsvidhya.com/blog/2022/09/machine-learning-adversarial-attacks-and-defense/)
+- 
 
 ## Experience 
 - [Alexey Grigorev - Principal Data Scientist @ OLX Group](https://applyingml.com/mentors/alexey-grigorev/)
