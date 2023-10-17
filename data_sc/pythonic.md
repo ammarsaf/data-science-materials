@@ -24,3 +24,6 @@
 ## Data Structure and Algorithm 
 - [inside_python_dict](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 - [sorted-containers package](https://grantjenks.com/docs/sortedcontainers/)
+
+## Others
+- [Python-Quirks](https://writing.peercy.net/p/python-quirks)
