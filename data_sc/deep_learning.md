@@ -7,3 +7,6 @@
 - [glossary-of-deep-learning-word-embedding](https://medium.com/deeper-learning/glossary-of-deep-learning-word-embedding-f90c3cec34ca)
 - [Illustrated Guide to LSTM's and GRU's: A step by step explanation-VIDEO](https://youtu.be/8HyCNIVRbSU?si=KEFonLRg5UVnVtTg)
 - [Convolution-Neural-Network-3D-Visualization](https://animatedai.github.io/)
+
+## E-Book
+- [Understanding-Deep-Learning](https://udlbook.github.io/udlbook/)
