@@ -145,6 +145,8 @@ Machine Learning Sources
 
     * Multimodal Machine Learning 
         * [seminar multimodal dl](https://slds-lmu.github.io/seminar_multimodal_dl/index.html)
+    * LLM
+        * [instructor-embedding](https://instructor-embedding.github.io/)
     
 
 </details>
