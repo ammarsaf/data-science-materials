@@ -1,5 +1,10 @@
 # All about Deep Learning
 
+## Deep Learning
+1. Fast-ai
+    - Practical Deep Learning Series - Jeremy Howard  (Part 1) [see](https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM)
+    - Cutting Edge Deep Learning Series - Jeremy Howard (Part 2) [see](https://www.youtube.com/playlist?list=PLfYUBJiXbdtTttBGq-u2zeY1OTjs5e-Ia)
+
 ## Sequential Model
 - [embedding-word2vec-article](https://jalammar.github.io/illustrated-word2vec/)
 - [illustrated-bert](https://jalammar.github.io/illustrated-bert/)
