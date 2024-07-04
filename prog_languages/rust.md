@@ -13,3 +13,4 @@ How I (try to) learn Rust step by step
 Extra resource
 - Rust Docs (high overview) [see](https://doc.rust-lang.org/nightly/)
 - YT Rust Analyzer Explain - [see](https://www.youtube.com/playlist?list=PLhb66M_x9UmrqXhQuIpWC5VgTdrGxMx3y)
+- Rust memory layout [see](https://github.com/amindWalker/Rust-Layout-and-Types)
