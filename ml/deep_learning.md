@@ -13,5 +13,8 @@
 - [Illustrated Guide to LSTM's and GRU's: A step by step explanation-VIDEO](https://youtu.be/8HyCNIVRbSU?si=KEFonLRg5UVnVtTg)
 - [Convolution-Neural-Network-3D-Visualization](https://animatedai.github.io/)
 
+## Pytorch
+- https://blog.ezyang.com/2019/05/pytorch-internals/
+
 ## E-Book
 - [Understanding-Deep-Learning](https://udlbook.github.io/udlbook/)
